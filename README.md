@@ -1,7 +1,7 @@
 # iris-flower-machine-learning
 Um dos exemplos mais conhecido no campo do machine learning. O objetivo é classificar as flores da íris em três espécies (setosa, versicolor ou virginica) a partir de medidas de comprimento e largura de sépalas e pétalas. O conjunto de dados da íris contém 3 classes de 50 instâncias cada, onde cada classe se refere a um tipo de planta da íris. O objetivo central aqui é projetar um modelo que faça classificações úteis para novas flores ou, em outras palavras, um que exiba uma boa generalização das flores a partir de suas medidas.
-
-  Para isso, foi utilizado a biblioteca pandas, para manipular a base de dados, a biblioteca sklearn que contém funções e ferramentas úteis para o aprendizado da máquina. Utiliza-se o modelo de predição árvore de escolhas ou decision tree classifier para realizar a classificação sobre uma base de teste previamente estabelecida.
+## Descrição breve do código
+  Para isso, foi utilizado a biblioteca **pandas**, para manipular a base de dados, a biblioteca **sklearn** que contém funções e ferramentas úteis para o aprendizado da máquina. Utiliza-se o modelo de predição árvore de escolhas ou decision tree classifier para realizar a classificação sobre uma base de teste previamente estabelecida.
 
 Inicialmente, foi tratada a base de dados para que uma parcela aleatória da mesma seja usada para o treino da máquina e outra parcela aleatória seja usada no teste da máquina. Com  funções que dividem aleatoriamente a base de dados, definimos a parte de treino e de teste. Além disso, para que a máquina aprendesse corretamente e sem erros, utilizou-se um decodificador que passa a classificação das flores iris_setosa, iris_versicolor, iris_virginica, que são strings, para números.
 
