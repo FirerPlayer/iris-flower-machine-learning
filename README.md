@@ -1,0 +1,2 @@
+# iris-flower-machine-learning
+Um dos exemplos mais conhecido no campo do machine learning. O objetivo é classificar as flores da íris em três espécies (setosa, versicolor ou virginica) a partir de medidas de comprimento e largura de sépalas e pétalas. O conjunto de dados da íris contém 3 classes de 50 instâncias cada, onde cada classe se refere a um tipo de planta da íris. O objetivo central aqui é projetar um modelo que faça classificações úteis para novas flores ou, em outras palavras, um que exiba uma boa generalização das flores a partir de suas medidas
